@@ -1,0 +1,30 @@
+2025-06-16 15:06:58,889 - __main__ - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-06-16 15:06:58,890 - __main__ - ERROR - Произошла ошибка: unable to open database file
+2025-06-16 15:07:37,671 - __main__ - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-06-16 15:07:37,672 - __main__ - ERROR - Произошла ошибка: unable to open database file
+2025-06-16 15:08:25,492 - __main__ - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-06-16 15:08:25,493 - __main__ - ERROR - Произошла ошибка: unable to open database file
+2025-06-16 15:08:43,494 - __main__ - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-06-16 15:08:43,495 - __main__ - ERROR - Произошла ошибка: unable to open database file
+2025-06-16 15:09:10,660 - __main__ - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-06-16 15:09:10,660 - __main__ - ERROR - Произошла ошибка: unable to open database file
+2025-06-16 15:09:21,924 - __main__ - ERROR - Ошибка при подключении к базе данных: unable to open database file
+2025-06-16 15:09:21,925 - __main__ - ERROR - Произошла ошибка: unable to open database file
+2025-06-16 15:09:58,037 - __main__ - INFO - Успешное подключение к базе данных: data\evraz-hackathon.db
+2025-06-16 15:09:58,044 - __main__ - INFO - Найдены таблицы: ['tblData']
+2025-06-16 15:09:58,045 - __main__ - INFO - Схема таблицы tblData:
+2025-06-16 15:09:58,045 - __main__ - INFO -   (0, 'timestamp', 'NUMERIC', 0, None, 1)
+2025-06-16 15:09:58,045 - __main__ - INFO -   (1, 'key', 'TEXT', 0, None, 0)
+2025-06-16 15:09:58,045 - __main__ - INFO -   (2, 'value', 'TEXT', 0, None, 0)
+2025-06-16 15:09:59,566 - __main__ - INFO - Успешно прочитана таблица tblData, получено 35563 строк
+2025-06-16 15:09:59,571 - __main__ - ERROR - Ошибка при сохранении в CSV: Cannot save file into a non-existent directory: '..\data'
+2025-06-16 15:09:59,572 - __main__ - INFO - Соединение с базой данных закрыто
+2025-06-16 15:10:51,863 - __main__ - INFO - Успешное подключение к базе данных: data\evraz-hackathon.db
+2025-06-16 15:10:51,864 - __main__ - INFO - Найдены таблицы: ['tblData']
+2025-06-16 15:10:51,865 - __main__ - INFO - Схема таблицы tblData:
+2025-06-16 15:10:51,865 - __main__ - INFO -   (0, 'timestamp', 'NUMERIC', 0, None, 1)
+2025-06-16 15:10:51,865 - __main__ - INFO -   (1, 'key', 'TEXT', 0, None, 0)
+2025-06-16 15:10:51,865 - __main__ - INFO -   (2, 'value', 'TEXT', 0, None, 0)
+2025-06-16 15:10:53,406 - __main__ - INFO - Успешно прочитана таблица tblData, получено 35563 строк
+2025-06-16 15:11:18,903 - __main__ - INFO - Данные успешно сохранены в data/tblData.csv
+2025-06-16 15:11:18,904 - __main__ - INFO - Соединение с базой данных закрыто
